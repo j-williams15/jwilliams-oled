@@ -1,0 +1,21 @@
+{
+  "name": "jwilliams-oled",
+  "displayName": "Jwilliams-OLED",
+  "description": "JWilliams OLED",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JWilliams OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JWilliams OLED-color-theme.json"
+      }
+    ]
+  }
+}
