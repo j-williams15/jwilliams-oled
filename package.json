@@ -3,8 +3,8 @@
   "displayName": "Jwilliams-OLED",
   "description": "JWilliams OLED",
   "publisher": "j-williams15",
-  "private": "true",
   "version": "0.0.1",
+  "private": "true",
   "engines": {
     "vscode": "^1.75.0"
   },
