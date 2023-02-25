@@ -4,10 +4,6 @@
 	"description": "A Dark VS Code theme designed for OLED screens.",
 	"version": "1.0.0",
 	"publisher": "J-Williams15",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/j-williams15/jwilliams-oled"
-	},
 	"keywords":[
 		"theme",
 		"OLED",
