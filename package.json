@@ -2,6 +2,7 @@
   "name": "jwilliams-oled",
   "displayName": "Jwilliams-OLED",
   "description": "JWilliams OLED",
+  "publisher": "j-williams15",
   "private": "true",
   "version": "0.0.1",
   "engines": {
