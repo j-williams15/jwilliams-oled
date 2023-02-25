@@ -3,7 +3,8 @@
 	"displayName": "JWilliams OLED",
 	"description": "A Dark VS Code theme designed for OLED screens.",
 	"version": "1.0.0",
-	"publisher": "J-Williams15",
+	"publisher": "j-williams15",
+	"private": "true",
 	"keywords":[
 		"theme",
 		"OLED",
