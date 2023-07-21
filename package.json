@@ -6,6 +6,10 @@
   "galleryBanner": {
     "path": "https://j-williams15.github.io/WebResources/j-williamsOled.jpg"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j-williams15/jwilliams-oled"
+  },
   "version": "1.0.2",
   "private": "true",
   "engines": {
