@@ -5,6 +5,9 @@
   "publisher": "j-williams15",
   "license": "MIT",
   "icon": "j-williamsOled-Icon.jpg",
+  "repository": {
+    "url": "https://github.com/j-williams15/jwilliams-oled"
+  },
   "version": "1.0.41",
   "private": "true",
   "engines": {
