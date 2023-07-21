@@ -4,9 +4,7 @@
   "description": "Designed with OLED displays in mind, looks great everything else.",
   "publisher": "j-williams15",
   "license": "MIT",
-  "galleryBanner": {
-    "path": "https://j-williams15.github.io/WebResources/j-williamsOled.jpg"
-  },
+  "icon": "https://j-williams15.github.io/WebResources/j-williamsOled.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/j-williams15/jwilliams-oled"
