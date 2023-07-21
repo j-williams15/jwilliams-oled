@@ -1,7 +1,7 @@
 {
   "name": "jwilliams-oled",
   "displayName": "Jwilliams-OLED",
-  "description": "jwilliams-OLED theme is designed with displays leveraging OLED technology in mind, and creates an effect which is both soothing to the eyes, and readable across various lighting environments. This aforementioned effect is accomplished via a carefully curated palette consiting of black and carefully curated shades of gold. The usage of black on oled displays aims to reduce overall power consumption, leading to longer battery life during your coding sessions.",
+  "description": "Designed with OLED displays in mind, looks great everything else.",
   "publisher": "j-williams15",
   "license": "MIT",
   "galleryBanner": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/j-williams15/jwilliams-oled"
   },
-  "version": "1.0.4",
+  "version": "1.0.41",
   "private": "true",
   "engines": {
     "vscode": "^1.75.0"
