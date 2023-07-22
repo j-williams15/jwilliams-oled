@@ -8,7 +8,7 @@
   "repository": {
     "url": "https://github.com/j-williams15/jwilliams-oled"
   },
-  "version": "1.0.44",
+  "version": "1.0.45",
   "private": "true",
   "engines": {
     "vscode": "^1.75.0"
