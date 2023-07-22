@@ -11,8 +11,8 @@ JWILIAMS-OLED theme is designed with displays leveraging OLED technology in mind
 1. Open extensions in the VSCode sidebar
 2. Search for **_JWilliams-OLED_** theme
 3. Click **Install**
-4. Click Reload to reload the application
-5. Code/File ＞ Preferences ＞ Color Theme ＞ Shades of Purple.
+4. Click **Reload** to reload the application
+5. Code/File ＞ Preferences ＞ Color Theme ＞ JWilliams-OLED
 ### Advanced
 
 ```sh
