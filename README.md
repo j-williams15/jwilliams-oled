@@ -1,6 +1,5 @@
 
-JWILIAMS-OLED theme is designed with displays leveraging OLED technology in mind, and creates an effect which is both soothing to the eyes, and readable across various lighting environments. This aforementioned effect is accomplished via a carefully curated palette consiting of black and carefully curated shades of gold. The usage of black on oled displays aims to reduce overall power consumption, leading to longer battery life during your coding sessions.
-
+**JWILIAMS-OLED** theme is designed with displays leveraging OLED technology in mind, and creates an effect which is both soothing to the eyes, and readable across various lighting environments. This aforementioned effect is accomplished via a carefully curated palette consiting of black and carefully curated shades of gold. The usage of black on OLED displays aims to reduce overall power consumption, leading to longer battery life during your coding sessions. Happy Coding!
 
 <div align="center"><h1>JWilliams-OLED Theme for VS Code</h1></div>
 
@@ -24,10 +23,8 @@ JWILIAMS-OLED theme is designed with displays leveraging OLED technology in mind
  ```
 4. Rate 5 Stars ⭐
 
-## About the J-Williams15
+## About J-Williams15
 <div>
   <img src="https://avatars.githubusercontent.com/u/82774631?v=4" alt="JWilliams-15" width="200"/>
- 
-
 </div>
 <h3><a href="https://github.com/j-williams15">Github Profile</a><h3>
