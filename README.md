@@ -24,11 +24,10 @@ JWILIAMS-OLED theme is designed with displays leveraging OLED technology in mind
  ```
 4. Rate 5 Stars ⭐
 
-## About the Creator
+## About the J-Williams15
 <div>
   <img src="https://avatars.githubusercontent.com/u/82774631?v=4" alt="JWilliams-15" width="200"/>
-  <h3>J-Williams15</h3>
-  <a href="https://github.com/j-williams15">Github Profile</a>
+ 
 
 </div>
-
+<h3><a href="https://github.com/j-williams15">Github Profile</a><h3>
