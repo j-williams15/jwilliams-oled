@@ -16,5 +16,5 @@ JWILIAMS-OLED theme is designed with displays leveraging OLED technology in mind
 ### Advanced
 
 ```sh
-$ ext install shades-of-purple
+$ ext install JWilliams-OLED
 ```
